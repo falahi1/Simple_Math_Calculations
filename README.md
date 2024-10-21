@@ -133,4 +133,4 @@ Run the file, input the value of `x` and the number of terms for the Taylor seri
    If the project is on GitHub, you can clone it with:
    
    ```bash
-   git clone https://github.com/quasar-ix/Maths-Projects.git
+   git clone https://github.com/quasar-ix/Simple_Math_Calculations.git
